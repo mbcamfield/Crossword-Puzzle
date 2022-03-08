@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6ioK60DwZ49" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">CrosswordPuzzle</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="CrosswordPuzzle_ORG">
+    <organization identifier="CrosswordPuzzle_ORG">
+      <title>CrosswordPuzzle</title>
+      <item identifier="CrosswordPuzzle_SCO" isvisible="true" identifierref="__6ioK60DwZ49_RES">
+        <title>CrosswordPuzzle</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6ioK60DwZ49_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/66jaOjc9Ppz_80_DX1060_DY1060_CX118_CY790.png" />
+      <file href="mobile/69Qn0zeX4B9_80_DX1030_DY1030_CX767_CY124.png" />
+      <file href="mobile/5eccCp752V9_80_DX630_DY630_CX472_CY116.png" />
+      <file href="mobile/5eRKBBQk9zj_80_DX1350_DY1350_CX115_CY1012.png" />
+      <file href="mobile/6V84DBES5R3_80_DX1640_DY1640_CX1230_CY123.png" />
+      <file href="mobile/6gPxLaFNCOU_80_DX854_DY854_CX106_CY634.png" />
+      <file href="mobile/6UdiHj4KWWu_80_DX930_DY930_CX695_CY118.png" />
+      <file href="mobile/5aIVmlbn5nO_80_DX350_DY350_CX109_CY261.png" />
+      <file href="mobile/63MJvV9KVAK_80_DX450_DY450_CX337_CY124.png" />
+      <file href="mobile/6ce3UNJaylo_80_DX1350_DY1350_CX111_CY1007.png" />
+      <file href="mobile/6108KTXugRv_80_DX930_DY930_CX696_CY117.png" />
+      <file href="mobile/6GwkhI5uH5W_80_DX950_DY950_CX111_CY710.png" />
+      <file href="mobile/5q0DSNMKgGA_80_DX630_DY630_CX472_CY119.png" />
+      <file href="mobile/6kX5GxGCtC4_80_DX550_DY550_CX106_CY412.png" />
+      <file href="mobile/5gRkOFmMlGU_80_DX744_DY744_CX556_CY118.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide5kmWHv4SQBJ.jpg" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5ggm926NCmz.js" />
+      <file href="html5/data/js/5iee4bAwJ1n.js" />
+      <file href="html5/data/js/5rLYSPz5Fp0.js" />
+      <file href="html5/data/js/5rMzAZoZ3ls.js" />
+      <file href="html5/data/js/5vH7h3t4p1c.js" />
+      <file href="html5/data/js/5YAEsijDFT2.js" />
+      <file href="html5/data/js/5z1jBbntYNo.js" />
+      <file href="html5/data/js/60AY2OIMDPf.js" />
+      <file href="html5/data/js/6aoQF3A4rbt.js" />
+      <file href="html5/data/js/6eayIRfGakx.js" />
+      <file href="html5/data/js/6KxplS3EIDc.js" />
+      <file href="html5/data/js/6lhjpOAvMQ0.js" />
+      <file href="html5/data/js/6R8nW6LrFGL.js" />
+      <file href="html5/data/js/6Ta70FRMomj.js" />
+      <file href="html5/data/js/6XEpC5u1vQA.js" />
+      <file href="html5/data/js/6XZeVWXGXGl.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
